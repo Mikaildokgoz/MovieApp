@@ -27,7 +27,7 @@ function useFetch(FEATURED_API, search_button, page) {
           setCount(data.totalResults);
           setLoading(false);
           setError("");
-          toastSuccessNotify("The selections you want are listed. enjoy watching")
+          toastSuccessNotify("The selections you want are listed. Enjoy watching")
         } else if (data.Search === undefined) {
           // setError("error");
           // console.log(error);
