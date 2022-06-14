@@ -35,7 +35,7 @@ function useFetch(FEATURED_API, search_button, page) {
           toastErrorNotify("Movie that you selected is not found");
           setTimeout(() => {
             setLoading(false);
-          }, 1200);
+          }, 1100);
           setCount(0)
 
         }
