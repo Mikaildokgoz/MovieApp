@@ -27,12 +27,12 @@ function useFetch(FEATURED_API, search_button, page) {
           setCount(data.totalResults);
           setLoading(false);
           setError("");
-          toastSuccessNotify("Movies listed")
+          toastSuccessNotify("The selections you want are listed. enjoy watching")
         } else if (data.Search === undefined) {
           // setError("error");
           // console.log(error);
           setMovies([]);
-          toastErrorNotify("Movie that you selected is not found");
+          toastErrorNotify("No results were found for the option you were looking for.");
           setTimeout(() => {
             setLoading(false);
           }, 1100);
