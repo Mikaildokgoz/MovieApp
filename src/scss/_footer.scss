@@ -1,0 +1,18 @@
+.link-style {
+  a {
+    padding: 0.4rem;
+  }
+}
+
+footer.middle {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: #ff9;
+  height: 11vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  gap: 1rem;
+  @extend .link-style;
+
+}
