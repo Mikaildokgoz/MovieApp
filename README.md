@@ -3,10 +3,6 @@
 <h1 align="center">Movie App</h1>
 
 
-<div align="center">
-  <h2>---------> https://django-todoapp-project.herokuapp.com/ <--------</h2>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
