@@ -81,7 +81,7 @@ The skeleton structure of the desired SPA was created with Bootstrap, HTML..
 The API provided for the data to be displayed was analyzed in Postman and the URL was designed to provide the data I wanted, and the user was asked to enter the necessary parameters. It is assigned to constant variables with useState so that these values ​​can be used in the URL.
 <h4>Third step : </h4>
 In order to be able to pull the data we want to display with the API and use it on any page I want, the data is pulled using the Custom Hook. It was then fragmented and the raw information I wanted was obtained.
-Fourth step<h4> </h4>
+<h4>Fourth step :</h4>
 The components of the pages I will create are designed and placed according to the place I want them to be on the pages.
 <h4>Fifth step :</h4>   
 Other pages to be accessed were designed and data exchange was provided between the pages with props, location and navigate methods.
