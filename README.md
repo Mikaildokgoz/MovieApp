@@ -112,7 +112,7 @@ I finished my work by completing the styling process of the page using SASS, SCS
 - Website [@Gmail](mikaildokgoz@gmail.com)
 
 - Linkedin [@Linkedin](https://www.linkedin.com/in/mikail-dokg%C3%B6z/)
-- Twitter [@]()
+- Instgram [@İnstagram](https://www.instagram.com/)
 
 
 
