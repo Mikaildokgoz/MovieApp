@@ -128,9 +128,9 @@ const Main = () => {
             </div>
           </form>
           <div className="d-flex justify-content-center flex-wrap " style={{backgroundColor:"#ffd9c0"}}>
-            {(movies.length === 0 ) ? (<img className="noDataImg" src={nodata}/>) :  (movies.map((movie, index) => (
+            {(movies.length !== 0 ) ? (movies.map((movie, index) => (
               <MovieCard key={index} {...movie} />
-            ))) }
+            ))) : (<img className="noDataImg" src={nodata} alt="nodata"/>) }
             
           </div>
           <div className="paginateMain">
