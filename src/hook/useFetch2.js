@@ -21,7 +21,7 @@ export const useFetch2 = (url) => {
         setMovie_details(data);
         
       });
-  }, []);
+  },);
 
   return { movie_details };
 };

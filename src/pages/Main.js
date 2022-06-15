@@ -20,7 +20,7 @@ const Main = () => {
 
   const FEATURED_API = `https://www.omdbapi.com/?apikey=${API_KEY}&y=${year}&type=${type}&page=${page}&s=${title}`;
 
-  const { movies, count, loading, error, setMovies } = useFetch(
+  const { movies, count, loading, error } = useFetch(
     FEATURED_API,
     search_button,
     page,
@@ -45,8 +45,10 @@ const Main = () => {
     e.preventDefault();
     if (search_button === true) {
       setSrcBtn(false);
+      setPage(1)
     } else {
       setSrcBtn(true);
+      setPage(1)
     }
 
     // if (title !== "pokemon") {
