@@ -75,8 +75,7 @@ $ git clone https://github.com/Mikaildokgoz/MovieApp.git
 ```
 
 ## Acknowledgements
-- 
- <h4>First step :</h4>
+<h4>First step :</h4>
 The skeleton structure of the desired SPA was created with Bootstrap, HTML..
 <h4>Second step : </h4>
 The API provided for the data to be displayed was analyzed in Postman and the URL was designed to provide the data I wanted, and the user was asked to enter the necessary parameters. It is assigned to constant variables with useState so that these values ​​can be used in the URL.
@@ -91,11 +90,11 @@ I finished my work by completing the styling process of the page using SASS, SCS
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/Mikaildokgoz)
-- Website [your-website.com](mikaildokgoz@gmail.com)
+- GitHub [@Mikail](https://github.com/Mikaildokgoz)
+- Website [@Gmail](mikaildokgoz@gmail.com)
 
-- Linkedin [@your-linkedin](https://www.linkedin.com/in/mikail-dokg%C3%B6z/)
-- Twitter [@your-twitter]()
+- Linkedin [@Linkedin](https://www.linkedin.com/in/mikail-dokg%C3%B6z/)
+- Twitter [@]()
 
 
 
