@@ -22,7 +22,7 @@ const About = () => {
           I’m currently learning Full-Stack Development Languages.
         </h4>
         <h4 style={{ color: "#55D8C1" }}>
-          I've already known HTML, Css, JavaScript, ReactJS, Django.py. PostreSQL SQL, Linux, Python, Boostrap, MUI, SASS.
+          I've already known HTML, Css, JavaScript, ReactJS, Django.py. PostreSQL, SQL, Linux, Python, Boostrap, MUI, SASS.
         </h4>
         <h4 style={{ color: "#55D8C1" }}>
           <a href="mikaildokgoz@gmail.com" className={styles.anchor2}>
