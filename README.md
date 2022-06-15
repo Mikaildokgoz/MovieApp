@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Built With](#built-with)
-- [Skeleton](#Project Skeleton)
+- [Project Skeleton](#project Skeleton)
 - [How to use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
@@ -27,7 +27,7 @@
 - React.Js
 - MUI, Bootsrap, SASS, SCSS
 
-## Project Skeleton
+### Project Skeleton
 
 ```
 Movie App
