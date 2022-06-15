@@ -77,7 +77,7 @@ $ git clone https://github.com/Mikaildokgoz/MovieApp.git
 ## Acknowledgements
 - 
  <h4>First step :</h4>
-The skeleton structure of the desired SPA was created with bootstrap.
+The skeleton structure of the desired SPA was created with Bootstrap, HTML..
 <h4>Second step : </h4>
 The API provided for the data to be displayed was analyzed in Postman and the URL was designed to provide the data I wanted, and the user was asked to enter the necessary parameters. It is assigned to constant variables with useState so that these values ​​can be used in the URL.
 <h4>Third step : </h4>
