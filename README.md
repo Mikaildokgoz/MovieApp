@@ -34,20 +34,42 @@ SOLUTION
 │     └── index.html
 ├── src
 │    ├── components
+|    |     ├── Footer.jsx
 │    │     ├── MovieCard.js
-│    │     └── Navbar.js
+│    │     ├── Navbar.jsx
+│    │     ├── pagination.css
+│    │     └── pagination.jsx
 │    │     
+│    ├── helpers
+|    |     ├── loading_spin.gif
+│    │     ├── notdata.png
+│    │     ├── spinner.gif
+│    │     └── ToastNotify.js
+|    |
+│    ├── hook
+│    │     ├── useFetch.js
+│    │     └── useFetch2.js
+|    |
 │    ├── pages
-│    │     ├── Login.js
-│    │     ├── Register.js
+│    │     ├── About.jsx
+│    │     ├── About.modele.css
 │    │     ├── Main.js
 │    │     └── MovieDetail.js
+|    |
 │    ├── router
-│    │     └── Router.js
+│    │     └── AppRouter.js
+|    |
+│    ├── scss
+│    │     ├── _footer.scss
+│    │     ├── _reset.scss
+│    │     └── _variables.scss
+|    |
 │    ├── App.js
-│    ├── App.css
 │    ├── index.js
-│    └── index.css
+|    |
+│    └── index.scss
+|       
+├── .gitignore
 ├── package.json
 └── yarn.lock
 ```
