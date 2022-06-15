@@ -14,7 +14,7 @@ const Navbar = () => {
             Home
           </button>
         </Link>
-        <a style={{textDecoration:"none", color:"black"}} href="https://www.inventanalytics.com/" target="_blank">
+        <a style={{textDecoration:"none", color:"black"}} href="https://www.inventanalytics.com/" target="blank">
           <h2 style={{ fontFamily: "Lobster" }}>Invent Analytics</h2>
         </a>
         <Link to={"about"} style={{ color: "white", textDecoration: "none" }}>
