@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Built With](#built-with)
-- [Skeleton] (#Project Skeleton)
+- [Skeleton](#Project Skeleton)
 - [How to use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
